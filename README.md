@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Developer con esperienza nello sviluppo di interfacce moderne e performanti usando React, Vue e Next.js. Lavoro quotidianamente con JavaScript e TypeScript, puntando sempre a scrivere codice pulito e manutenibile.<br>🎓 Laureato in Psicologia, porto un approccio attento all'usabilità e all'esperienza utente.<br>🚀 Appassionato di programmazione e costantemente curioso, amo imparare nuovi stack tecnologici e affrontare nuove sfide.
+👨‍💻 Mi chiamo Francesco Mangione e lavoro da oltre 3 anni come Frontend Developer con esperienza e focus nello sviluppo di interfacce moderne e performanti usando React, Vue e Next.js. Lavoro quotidianamente con JavaScript e TypeScript, puntando sempre a scrivere codice pulito e manutenibile.<br>🎓 Laureato in Psicologia, porto un approccio attento all'usabilità e all'esperienza utente.<br>🚀 Appassionato di programmazione e costantemente curioso, amo imparare nuovi stack tecnologici e affrontare nuove sfide.
 
 
 ## 🌐 Socials:
